@@ -16,6 +16,7 @@
 [<img align="left" alt="deniz-günenç | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="sbs.dev | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
 [<img align="left" alt="13616506 | Stackoverflow" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />][stackoverflow]
+[<img align="left" alt="seabensea | Leetcode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />][leetcode]
 
 <br />
 
@@ -51,6 +52,7 @@
 [instagram]: https://www.instagram.com/sbs.dev/
 [linkedin]: https://www.linkedin.com/in/deniz-günenç/
 [stackoverflow]: https://stackoverflow.com/users/13616506/deniz-günenç
+[leetcode]: https://leetcode.com/SeaBenSea/
 [visual]: https://code.visualstudio.com
 [cpp]: https://www.w3schools.com/cpp/
 [cs]: https://www.w3schools.com/cs/
