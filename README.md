@@ -7,7 +7,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🥅 2021 Goals: Launch first website.
+- 🥅 2022 Goals: Launch first website.
 - ⚡ Fun fact: I love watching NBA matches
 
 ### Connect with me:
